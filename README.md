@@ -2,10 +2,6 @@
 
 This is a solution to the Quoori programming challenge
 
-## Project Files
-
-There are
-
 ## Test
 
 To run the tests please enter the following command from your terminal.
@@ -14,7 +10,7 @@ To run the tests please enter the following command from your terminal.
 go test
 ```
 
-### With Benchmarks
+### With Peformance Measures
 
 To view the average execution time of each variant of the Levenshtein distance algorithms for each test case, please run the following command from your terminal.
 
